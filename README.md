@@ -21,7 +21,8 @@ https://wikibook.co.kr/article/layered-architecture/
 Xarawn, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
 
 # 진행 방식
+* **절대 본업(직장, 취준)에 방해되지 않는 선에서 진행한다.**
 * 작은 규모의 기능을 모두가 같이 개발
 * 템플릿 프로젝트를 개인 계정에 포크한 후 PR로 코드리뷰 ( https://github.com/woowacourse 참고 )
 * 바닐라 자바스크립트와 프레임워크(리액트?)를 번갈아가며 사용
-* 절대 본업(직장, 취준)에 방해되지 않는 선에서 진행한다.
+
